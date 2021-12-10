@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @DebadeepDas
-- 👀 I’m interested in Learning new things, especially things related to Computers and Science.
-- 🌱 I’m currently learning how to code on Python.
-- 💞️ I’m looking to collaborate on some exciting projects.
+- Hi, I’m @DebadeepDas
+- I’m interested in Learning new things, especially things related to Computers and Science.
+- I’m currently learning how to code on Python.
+- I’m looking to collaborate on some exciting projects.
 
 
 <!---
