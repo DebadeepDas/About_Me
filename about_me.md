@@ -1,4 +1,2 @@
 - Hi, I’m Debadeep Das
-- I’m interested in Learning new things, especially things related to Computers and Science.
-- I’m currently learning how to code in/with Python.
-- I’m looking to collaborate on some exciting projects.
+- I’m interested in learning new things, especially things related to Mechanical and Aerospace Engineering
